@@ -1,4 +1,4 @@
 best-program-ever
 =================
 
-Best program EVER.
+Best program ever.
